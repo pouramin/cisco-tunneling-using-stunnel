@@ -31,7 +31,7 @@ https://www.hub.shatelhost.com/aff.php?aff=290
 >TRC20: ```TGTyqv2MH7dZztMvaP5PKuS9Bma8RY5Pk8```
 
 >ETH: ```0x5b5202a54e5ce4fb25f0d886254eeb07bb088614```
-## EU-Server
+## EU-Server-CentOS
 #### Update Server
 ```
 yum update -y
@@ -197,7 +197,7 @@ sudo systemctl start stunnel.service
 sudo systemctl enable stunnel.service
 ```
 
-## IRAN-Server
+## IRAN-Server-Ubunto
 #### Update & Upgrade
 ```
 apt update && apt upgrade -y
